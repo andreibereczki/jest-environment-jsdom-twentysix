@@ -3,7 +3,6 @@
 [![stability-stable](https://img.shields.io/badge/stability-stable-green.svg)](https://www.npmjs.com/package/jest-environment-jsdom-twentysix)
 [![dependencies](https://img.shields.io/librariesio/release/npm/jest-environment-jsdom-twentysix)](https://github.com/andreibereczki/jest-environment-jsdom-twentysix/blob/main/package.json)
 [![types](https://img.shields.io/npm/types/jest-environment-jsdom-twentysix)](https://github.com/microsoft/TypeScript)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-fa6673.svg)](https://conventionalcommits.org)
 [![license](https://img.shields.io/github/license/andreibereczki/jest-environment-jsdom-twentysix)](https://github.com/andreibereczki/jest-environment-jsdom-twentysix/blob/main/LICENSE.md)
 
 Yet another jsdom (@26.0.0) jest environment.
