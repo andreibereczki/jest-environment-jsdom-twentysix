@@ -5,7 +5,7 @@
 [![types](https://img.shields.io/npm/types/jest-environment-jsdom-twentysix)](https://github.com/microsoft/TypeScript)
 [![license](https://img.shields.io/github/license/andreibereczki/jest-environment-jsdom-twentysix)](https://github.com/andreibereczki/jest-environment-jsdom-twentysix/blob/main/LICENSE.md)
 
-Yet another jsdom (@26.0.0) jest environment.
+Yet another [jsdom (@26.0.0)](https://github.com/jsdom/jsdom/releases/tag/26.0.0) jest environment.
 
 ## Installation
 
