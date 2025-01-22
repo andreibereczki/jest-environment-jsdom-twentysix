@@ -1,7 +1,7 @@
 {
   "name": "jest-environment-jsdom-twentysix",
   "version": "1.0.0",
-  "description": "jsdom v26 jest environment",
+  "description": "jest environment using jsdom@26.0.0",
   "main": "index.js",
   "types": "index.d.ts",
   "exports": {
@@ -50,5 +50,8 @@
     "@jest/environment": "^30.0.0-alpha.3",
     "@jest/environment-jsdom-abstract": "^30.0.0-alpha.3",
     "jsdom": "^26.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
